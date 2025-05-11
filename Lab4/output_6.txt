@@ -1,0 +1,170 @@
+add:	273
+273	1	16
+273	1	16
+remove:
+273	1	16
+273	1	16
+add:	3187
+3187	1	16
+3187	2	16
+add:	3091
+3091	2	16
+3187	3	16
+add:	2368
+2368	3	16
+3187	4	16
+add:	2415
+2415	4	16
+3187	5	16
+remove:
+2415	4	16
+3187	5	16
+remove:
+2368	3	16
+3091	5	16
+add:	1123
+1123	3	16
+2368	6	16
+add:	1680
+1680	4	16
+2368	7	16
+remove:
+1680	4	16
+2368	7	16
+add:	1013
+1013	4	16
+2415	8	16
+remove:
+1013	4	16
+2415	8	16
+add:	4650
+4650	4	16
+1123	9	16
+add:	1686
+1686	5	16
+1123	10	16
+remove:
+1686	5	16
+1123	10	16
+remove:
+4650	4	16
+1680	10	16
+remove:
+1123	3	16
+1013	10	16
+remove:
+3091	2	16
+4650	10	16
+remove:
+3187	1	16
+1686	10	16
+add:	4694
+4694	1	16
+4694	11	16
+remove:
+4694	1	16
+4694	11	16
+add:	1441
+1441	1	16
+1441	12	16
+add:	1535
+1535	2	16
+1441	13	16
+remove:
+1535	2	16
+1441	13	16
+remove:
+1441	1	16
+1535	13	16
+No more data to remove!!!
+add:	134
+134	1	16
+134	14	16
+add:	3297
+3297	2	16
+134	15	16
+add:	3166
+3166	3	16
+134	16	16
+add:	1271
+1271	4	16
+134	17	33
+remove:
+1271	4	16
+134	17	33
+remove:
+3166	3	16
+3297	17	33
+remove:
+3297	2	16
+3166	17	33
+No more data to add!!!
+No more data to add!!!
+No more data to add!!!
+remove:
+134	1	16
+1271	17	33
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to add!!!
+No more data to add!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to add!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to add!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to add!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to remove!!!
+No more data to add!!!
+remaining stack size:	0
+remaining queue size:	17
